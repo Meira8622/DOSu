@@ -1,4 +1,4 @@
-<h1>DOSu! -- Manual de instrucciones<h1>
+<h1>DOSu! -- Manual de instrucciones</h1>
 
 Controles: Mouse y Teclado.
 
