@@ -2,7 +2,7 @@
 
 Controles: Mouse y Teclado.
 
-===================================  Preparacion del Juego:  ================================
+<div>===================================  Preparacion del Juego:  ================================</div>
 
 Se recomienda jugar DOSu! en un procesador de: 
 - MINIMO: 10kHz (10000 ciclos por segundo).
@@ -15,7 +15,7 @@ El juego requiere que la interrupcion INT81RNG este instalada en memoria. El jue
 generar numeros aleatorios. El jugador primero debe ejecutar INT81RNG.COM para instalar la
 interrupcion, y luego podra ejecutar el juego (MAIN.EXE).
 
-==========================================  Juego:  =========================================
+<div>==========================================  Juego:  =========================================</div>
 El juego se trata de clickear cuadrados que van apareciendo en la pantalla de forma aleatoria.
 Los cuadrados pueden moverse o quedarse quietos. Los que se mueven rebotan en los bordes de
 la pantalla. Los cuadrados aparecen cada vez mas rapido, para aumentar la dificultad.
@@ -46,7 +46,7 @@ o presionar "Espacio" para volver a intentar.
 
 Durante el juego, el jugador puede presionar Q para volver al menu principal en cualquier momento.
 
-===========================================  Codigo:  ========================================
+<div>===========================================  Codigo:  ========================================</div>
 PROGRAMAS NECESARIOS:
 - Turbo Assembler (TASM.EXE)
 - Turbo Linker (TLINK.EXE)
@@ -63,7 +63,7 @@ debe ejecutar MAIN.EXE.
 Maked.bat compila y linkea el juego para debug, instala la interrupcion y luego debugea el juego
 usando TD.
 
-==============================================================================================
+<div>==============================================================================================</div>
 Proyecto realizado por el Grupo 2 para la materia Sistema de Procesamiento de Datos en la
 Universidad Nacional de San Martin.
 
